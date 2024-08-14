@@ -1,0 +1,9 @@
+@media screen and (max-width: 200px) {
+    /* only use for device screen view */
+}
+@media print and (max-width: 200px) {
+    /* only use for print */
+}
+@media all and (max-width: 200px) {
+    /* use for both */
+}
